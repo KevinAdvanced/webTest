@@ -1,0 +1,9 @@
+{
+"release":
+[
+{ "type":"DotNetNuke", "UpToDate":"False", "NewReleaseAvailable":"2", "LatestReleaseAvailable":"9.10.2", "JiraTicket":"IAS-109" },
+{ "type":"SqlLite", "UpToDate":"False", "NewReleaseAvailable":"3", "LatestReleaseAvailable":"3.37.2", "JiraTicket":"IAS-195 (New)" },
+{ "type":"DevExpress", "UpToDate":"False", "NewReleaseAvailable":"7", "LatestReleaseAvailable":"21.2", "JiraTicket":"IAS-110" }
+]
+}
+
